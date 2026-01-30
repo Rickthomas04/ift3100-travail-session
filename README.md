@@ -1,6 +1,6 @@
 # ift3100-travail-session
 Travail de session du cours d'infographie
-L'objectif de ce travail était de créer une application qui permet de construire, éditer et rendre des scènes visuelles en 2D et 3D. Les fonctionnalités de l'application sont divisées en 9 parties, chacune ayant 3 à 5 sous sections :
+L'objectif de ce travail était de créer une application qui permet de construire, éditer et rendre des scènes visuelles en 2D et 3D. Nous utilisions la librairie OpenFrameworks, une librairie de plus haut niveau construit à partir de OPENGL. Les fonctionnalités de l'application sont divisées en 9 parties, chacune ayant 3 à 5 sous sections :
 1. Images (importation, exportation, modification de l'espace de couleur et visualisation de l'histogramme)
 2. Dessin Vectoriel (Outil de dessins, création de formes vectorielles simples, interface qui permet de visualiser toutes les composantes de la scène)
 3. Transformations graphique (Utilisation d'un graphe de scène, sélection multiples d'objets, transformations géométriques 2D ainsi que l'historique de ces transformations)
